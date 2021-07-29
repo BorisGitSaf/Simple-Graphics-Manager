@@ -1,0 +1,5 @@
+Библиотеки:
+sys
+PyQt5
+matplotlib
+numpy
